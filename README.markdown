@@ -2,4 +2,4 @@ This is a sample project showing how you can use Vaadin's features to create a w
 
 Launch it with
 
-  mvn jetty:run
+    mvn jetty:run
